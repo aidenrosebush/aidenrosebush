@@ -10,22 +10,20 @@ I apply modern machine learning to theoretical problems in quantum information, 
 **Publications**
 
 - *An Exponential Reduction in Training Data Sizes for Machine Learning Derived Entanglement
-  Witnesses* Machine Learning: Science and Technology **5**, 035068 (2024).
-  [DOI](https://doi.org/10.1088/2632-2153/ad7457)
-- *A Universal Entanglement Witness Generator*   [arXiv:2608.07806](https://arxiv.org/abs/2608.07806),
+  Witnesses* Machine Learning: Science and Technology **5**, 035068 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad7457)
+- *A Universal Entanglement Witness Generator* [arXiv:2608.07806](https://arxiv.org/abs/2608.07806),
   under review at *Quantum*.
 
-The method is patented and
-[listed for licensing](https://research.utoronto.ca/technology-opportunities/db/ml-derived-entanglement-witnesses-quantum-state-detection)
+The method is patented and [listed for licensing](https://research.utoronto.ca/technology-opportunities/db/ml-derived-entanglement-witnesses-quantum-state-detection)
 through the University of Toronto's Innovations & Partnerships Office, so the research code is not
 public. The projects below are.
 
 ### Projects here
 
-- **[humanoid-locomotion-rl](https://github.com/aidenrosebush/humanoid-locomotion-rl)**   comparing
+- **[humanoid-locomotion-rl](https://github.com/aidenrosebush/humanoid-locomotion-rl)** comparing
   PPO, Soft Actor-Critic, and TD3 for humanoid locomotion in MuJoCo, on flat ground and procedurally
   generated uneven terrain.
-- **[RedactedGPT](https://github.com/aidenrosebush/ECE1786)**   BERT, DeBERTa, and GPT-2 fine-tuned to
+- **[RedactedGPT](https://github.com/aidenrosebush/ECE1786)** BERT, DeBERTa, and GPT-2 fine-tuned to
   infer redacted content in declassified documents; 93% accuracy with bert-base-cased.
 
 ### Elsewhere
