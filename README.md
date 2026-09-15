@@ -5,9 +5,7 @@ Prof. Li Qian. I work on machine learning for quantum information.
 
 ### Research
 
-I develop machine-learning-derived entanglement witnesses for detecting entanglement in quantum
-states using adversarial ML methods, large-scale state simulation, and validation across both
-photonic and superconducting qubit hardware.
+I apply modern machine learning to theoretical problems in quantum information, and test the solutions on photonic and superconducting hardware. 
 
 **Publications**
 
