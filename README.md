@@ -24,7 +24,7 @@ public. The projects below are.
   PPO, Soft Actor-Critic, and TD3 for humanoid locomotion in MuJoCo, on flat ground and procedurally
   generated uneven terrain.
 - **[RedactedGPT](https://github.com/aidenrosebush/ECE1786)** BERT, DeBERTa, and GPT-2 fine-tuned to
-  infer redacted content in declassified documents; learning new embeddings while simultaneously updating existing ones. 93.9% top-10 accuracy with bert-base-cased.
+  infer redacted content in declassified documents; learning new embeddings while simultaneously updating existing ones. 93% top-10 test accuracy with bert-base-cased.
 
 ### Elsewhere
 
