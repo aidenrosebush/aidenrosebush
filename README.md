@@ -32,7 +32,7 @@ public. The projects below are.
 
 ### Elsewhere
 
-Toronto, Canada  · aiden.rosebush@mail.utoronto.ca
+Toronto, Canada  · aiden.rosebush AT mail.utoronto.ca
 
 <!--
 **aidenrosebush/aidenrosebush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
