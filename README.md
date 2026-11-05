@@ -12,7 +12,7 @@ I apply modern machine learning to theoretical problems in quantum information, 
 - *An Exponential Reduction in Training Data Sizes for Machine Learning Derived Entanglement
   Witnesses* Machine Learning: Science and Technology **5**, 035068 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad7457)
 - *A Universal Entanglement Witness Generator* [arXiv:2608.07806](https://arxiv.org/abs/2608.07806),
-  under review at *Quantum*.
+  under review at *Quantum Machine Intelligence*.
 
 The method is patented and [listed for licensing](https://research.utoronto.ca/technology-opportunities/db/ml-derived-entanglement-witnesses-quantum-state-detection)
 through the University of Toronto's Innovations & Partnerships Office, so the research code is not
